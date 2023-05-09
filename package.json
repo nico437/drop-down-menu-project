@@ -1,0 +1,19 @@
+{
+  "name": "drop-down-menu-project",
+  "version": "1.0.0",
+  "description": "drop-down-menu-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nico437/drop-down-menu-project.git"
+  },
+  "author": "nico437",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico437/drop-down-menu-project/issues"
+  },
+  "homepage": "https://github.com/nico437/drop-down-menu-project#readme"
+}
